@@ -1,2 +1,3 @@
 # finance-sources
-Sources of the finance material I wrote over the last years.
+
+See me on https://gitlab.com/jcbagneris/finance-sources
